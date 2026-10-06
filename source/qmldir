@@ -1,0 +1,7 @@
+module notolight
+typeinfo appnotolight.qmltypes
+prefer :/notolight/
+Main 1.0 Main.qml
+NoteModel 1.0 NoteModel.qml
+ThemeModel 1.0 ThemeModel.qml
+

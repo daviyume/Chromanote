@@ -1,0 +1,13 @@
+Marine
+DejaVu LGC Sans,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+#000e45
+/defaultassets/sea.webp
+#067cd9
+
+#7fe6ff
+#29acff
+#0bbeff
+2
+1
+#ffffff
+

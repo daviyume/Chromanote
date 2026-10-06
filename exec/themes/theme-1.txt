@@ -1,0 +1,13 @@
+No Theme
+
+#000000
+
+#555555
+
+#ffffff
+#888888
+#dddddd
+fit
+1
+
+

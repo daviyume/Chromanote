@@ -1,0 +1,13 @@
+Growing
+Noto Sans Armenian Black,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+#f8f600
+/defaultassets/forest.webp
+#24611b
+
+#276d1a
+#49e6b1
+#3d250a
+2
+1
+#0eff62
+

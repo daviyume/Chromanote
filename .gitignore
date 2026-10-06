@@ -1,0 +1,19 @@
+*
+!.gitignore
+!exec/
+!exec/**
+!source/
+!source/**
+
+# --- Qt Creator / Qt files ---
+.qt/
+.qt_plugins/
+.qtc/
+.qtc_clangd/
+.qtcreator/
+.rcc/
+.generated/
+CMakeLists.txt.user
+
+# --- CMake build files ---
+.cmake/

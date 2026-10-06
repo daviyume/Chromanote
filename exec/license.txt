@@ -1,0 +1,3 @@
+Copyright © 2026 [Daviyume] / Davide Sollo.
+This application and all of its assets are licensed under GPLv3.
+Made with Qt.

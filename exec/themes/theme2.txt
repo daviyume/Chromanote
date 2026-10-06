@@ -1,0 +1,13 @@
+Sapphire
+FontAwesome,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+#0000ff
+/defaultassets/sapphirebg.png
+#6790ff
+/defaultassets/sapphiretexture.png
+#05bdff
+#0019a5
+#0b1535
+3
+1
+#ffffff
+

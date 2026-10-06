@@ -1,0 +1,13 @@
+Theme name
+_textfont
+_textcolor
+_assets/bg_.png
+_bgcolor
+_assets/notetexture_.png
+_notecolor
+_notebordercolor
+_buttoncolor
+_fillmode (3 = tile, 2 = fit, 0 = stretch)
+_textureopacity
+_shineopacity
+

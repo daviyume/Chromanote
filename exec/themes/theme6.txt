@@ -1,0 +1,13 @@
+Flowers of the sky
+Noto Music,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+#000000
+/defaultassets/flowersofthesky.jpg
+#f3fe9b
+/defaultassets/purpleflora.jpg
+#f504ff
+#710093
+#9fffe8
+2
+0.30272108843537415
+#ffffff
+

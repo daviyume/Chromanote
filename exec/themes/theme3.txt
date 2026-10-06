@@ -1,0 +1,13 @@
+Void
+DejaVu Sans Condensed
+#ffffff
+
+#000000
+
+#14032d
+#888888
+#290e38
+fit
+1
+#6b000000
+

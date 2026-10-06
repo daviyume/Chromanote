@@ -1,0 +1,13 @@
+Silver
+Noto Sans,12,-1,5,200,0,0,0,0,0,0,0,0,0,0,1,ExtraLight,0,0
+#000000
+
+#979ebd
+
+#a7b1e2
+#434f71
+#9fa3f5
+1
+1
+#b6ffffff
+

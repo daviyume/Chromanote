@@ -1,0 +1,10 @@
+Welcome text
+seltheme
+remwidth (582 default)
+remheight (679 default)
+remembersize
+sortmode (0=manual, based on filename. 1= by recent.)
+noteamount
+themeamount
+notesize
+

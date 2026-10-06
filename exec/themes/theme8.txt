@@ -1,0 +1,14 @@
+Sakura
+Noto Sans Sora Sompeng Medium,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+#ffffff
+/defaultassets/sakura.png
+#cf5398
+
+#7e2147
+#000000
+#98ff91cc
+0
+1
+#ff4c9a
+
+

@@ -1,0 +1,13 @@
+Ruby
+icomoon,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,Regular,0,0
+#ff0000
+/defaultassets/rubybg.png
+#f78787
+/defaultassets/rubytexture.png
+#ffa8a8
+#ffffff
+#ffbaba
+3
+1
+#ffffff
+

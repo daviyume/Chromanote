@@ -1,0 +1,13 @@
+Glass leaves
+DejaVu LGC Sans,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+#ffffff
+/defaultassets/greenonglass.webp
+#438573
+
+#a5414141
+#a3ffc5
+#8caac7
+2
+1
+#91ffa7
+
