@@ -4,6 +4,7 @@
 !exec/**
 !source/
 !source/**
+!README.md
 
 # --- Qt Creator / Qt files ---
 .qt/
