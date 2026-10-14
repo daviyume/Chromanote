@@ -707,7 +707,7 @@ ApplicationWindow {
                 id: noteamountinput
                 text: noteamount
                 onTextChanged: {
-                    if(focus)
+                    if(focus & noteamountinput.text<=100)
                     {
                         noteamountslider.value = noteamountinput.text
                         app.writeConfig(7, noteamountinput.text)
