@@ -515,26 +515,36 @@ ApplicationWindow {
                     }
                     text: app.readTitle(notewindow.currentnote)
                 }
-                TextArea {
-                    id: input
-                    y: 30
+
+                ScrollView {
+                    id: inputscroll
+                    anchors.top: title.bottom
+                    clip: true
                     width: parent.width*0.9
-                    height: parent.width*0.9
-                    font.family: selfont
+                    height: parent.height-savenotebutton.height-title.height
 
-                    text: app.readNote(notewindow.currentnote)
-                    background: Rectangle{
-                        color: notecolor
-                        border.color: notebordercolor
+                    TextArea {
+                        id: input
+                        width: parent.width
+                        height: parent.width
+                        font.family: selfont
+                        wrapMode: Text.WordWrap
 
-                        gradient: Gradient{
-                            GradientStop {position: -0.25; color: shinecolor}
-                            GradientStop {position: 0.5; color: notecolor}
+                        text: app.readNote(notewindow.currentnote)
+                        background: Rectangle{
+                            color: notecolor
+                            border.color: notebordercolor
+
+                            gradient: Gradient{
+                                GradientStop {position: -0.25; color: shinecolor}
+                                GradientStop {position: 0.5; color: notecolor}
+                            }
                         }
-                    }
+                }
 
                 }
                 QButton {
+                    id: savenotebutton
                     anchors.bottom: parent.bottom
                     text: "Save"
 
@@ -1236,7 +1246,7 @@ ApplicationWindow {
                 Layout.preferredHeight: 30
                 model: app.loadFonts()
                 displayText: editwindow.pselfont.family
-                font.family: editwindow.pselfont.family
+                font: editwindow.pselfont.family
                 currentIndex: editfont.find(pselfont.family)
                 Layout.bottomMargin: 5
 
