@@ -688,7 +688,7 @@ ApplicationWindow {
                 anchors.left: parent.left
                 anchors.bottom: parent.bottom
                 padding: 2
-                text: "1.0"
+                text: "1.0.1"
             }
             }
 
